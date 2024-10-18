@@ -8,7 +8,7 @@ def check_intervalo(timestamp1, timestamp2):
     time1 = datetime.fromtimestamp(timestamp1)
     time2 = datetime.fromtimestamp(timestamp2)
     time_difference = time2 - time1
-    return abs(time_difference) <= timedelta(minutes=10) and (time1 > time2)
+    return abs(time_difference) <= timedelta(minutes=220) and (time1 > time2)
 
 def selecionar_traceroute(arquivo1, arquivo2, saida):
     df1 = pd.read_csv(arquivo1)
@@ -29,6 +29,7 @@ def selecionar_traceroute(arquivo1, arquivo2, saida):
                 
                 # Adiciona a coluna 'Vazao' correspondente
                 linha_prox['Vazao'] = linha['Vazao']
+                linha_prox['Timestamp da vazao'] = linha['Timestamp']
 
                 # Adiciona a linha com a coluna 'Vazao' à lista de linhas encontradas
                 linhas_encontradas.append(linha_prox)
@@ -39,7 +40,7 @@ def selecionar_traceroute(arquivo1, arquivo2, saida):
     # Salva os resultados no arquivo de saída
     result_df = pd.DataFrame(linhas_encontradas)
     if not result_df.empty:
-        result_df.columns = df2.columns.append(pd.Index(['Vazao']))  # Adiciona 'Vazao' como nova coluna
+        result_df.columns = df2.columns.append(pd.Index(['Vazao', 'Timestamp da vazao']))
         result_df.to_csv(saida, index=False)
     else:
         lista_arq_vazios.append(arquivo1)
