@@ -48,20 +48,20 @@ def selecionar_traceroute(arquivo1, arquivo2, saida):
 if __name__ == "__main__":
 
     lista_arq_vazios = []
-    local_origem1 = 'datasets/dataset 14-7/datasets vazao/cubic/'
-    #local_origem1 = "datasets vazao\\cubic\\"
-    local_origem2 = "datasets/dataset 14-7/datasets traceroute/"
-    local_destino = "datasets/alterados/saida/cubic/"
-    #local_destino = "datasets alterados\\saida\\cubic\\"
+    local_vazaocubic = 'datasets/dataset 14-7/datasets vazao/cubic/'
+    local_vazaobbr = 'datasets/dataset 14-7/datasets vazao/bbr/'
+    local_traceroute = 'datasets/dataset 14-7/datasets traceroute/'
+    local_atraso = 'datasets/dataset 14-7/datasets atraso/'
+    local_destino = 'datasets/alterados/saida/cubic/'
     nome = "traceroute da vazao "
 
     if not os.path.exists(local_destino):
         os.makedirs(local_destino)
 
-    arquivo_1 = os.listdir(local_origem1)
+    arquivo_1 = os.listdir(local_vazaocubic)
     arquivos1 = sorted(arquivo_1)
 
-    arquivo_2 = os.listdir(local_origem2)
+    arquivo_2 = os.listdir(local_traceroute)
     arquivos2 = sorted(arquivo_2)
 
     for arquivo1 in arquivos1:
@@ -75,7 +75,7 @@ if __name__ == "__main__":
                 print(arquivo2)
                 saida = local_destino + nome + str(nome_links1[0]) + ".csv"
                 selecionar_traceroute(
-                    local_origem1 + arquivo1, local_origem2 + arquivo2, saida
+                    local_vazaocubic + arquivo1, local_traceroute + arquivo2, saida
                 )
             else:
                 print("buscando o arquivo correto")
