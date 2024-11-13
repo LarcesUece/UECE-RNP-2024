@@ -1,0 +1,342 @@
+{
+    "treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 273666741.511606
+        },
+        "media-movel": {
+            "Throughput": 341965553.882432
+        },
+        "mediana-movel": {
+            "Throughput": 341965553.882432
+        },
+        "svd": {
+            "Throughput": 4.76837158203125e-08
+        },
+        "interpolacao-linear": {
+            "Throughput": 297511385.89576864
+        }
+    },
+    "treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 411600293.0541153
+        },
+        "media-movel": {
+            "Throughput": 419334914.9533276
+        },
+        "mediana-movel": {
+            "Throughput": 419334914.9533276
+        },
+        "svd": {
+            "Throughput": 2.29065161426192e-07
+        },
+        "interpolacao-linear": {
+            "Throughput": 441050164.0279304
+        }
+    },
+    "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 87391040.60963471
+        },
+        "media-movel": {
+            "Throughput": 84949888.37043136
+        },
+        "mediana-movel": {
+            "Throughput": 84949888.37043136
+        },
+        "svd": {
+            "Throughput": 1574994.2667588468
+        },
+        "interpolacao-linear": {
+            "Throughput": 84133941.0960674
+        }
+    },
+    "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 28183465.017211773
+        },
+        "media-movel": {
+            "Throughput": 29029517.689572718
+        },
+        "mediana-movel": {
+            "Throughput": 29029517.689572718
+        },
+        "svd": {
+            "Throughput": 578054.7782131843
+        },
+        "interpolacao-linear": {
+            "Throughput": 28626934.580968343
+        }
+    },
+    "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 69453912.33190164
+        },
+        "media-movel": {
+            "Throughput": 84139569.1348399
+        },
+        "mediana-movel": {
+            "Throughput": 84139569.1348399
+        },
+        "svd": {
+            "Throughput": 2799004.168194586
+        },
+        "interpolacao-linear": {
+            "Throughput": 57876794.92632545
+        }
+    },
+    "treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 43901701.316303335
+        },
+        "media-movel": {
+            "Throughput": 44964337.258794814
+        },
+        "mediana-movel": {
+            "Throughput": 44964337.258794814
+        },
+        "svd": {
+            "Throughput": 2216510.8234351412
+        },
+        "interpolacao-linear": {
+            "Throughput": 37997771.24721086
+        }
+    },
+    "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 25246261.0953046
+        },
+        "media-movel": {
+            "Throughput": 24523677.62958124
+        },
+        "mediana-movel": {
+            "Throughput": 24523677.62958124
+        },
+        "svd": {
+            "Throughput": 1410433.7
+        },
+        "interpolacao-linear": {
+            "Throughput": 22880825.596608847
+        }
+    },
+    "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 45787696.75263942
+        },
+        "media-movel": {
+            "Throughput": 46078981.80555655
+        },
+        "mediana-movel": {
+            "Throughput": 46078981.80555655
+        },
+        "svd": {
+            "Throughput": 3277502.3515238906
+        },
+        "interpolacao-linear": {
+            "Throughput": 46010344.43153802
+        }
+    },
+    "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 30438256.174824566
+        },
+        "media-movel": {
+            "Throughput": 29520999.004832245
+        },
+        "mediana-movel": {
+            "Throughput": 29520999.004832245
+        },
+        "svd": {
+            "Throughput": 2361259.6666666744
+        },
+        "interpolacao-linear": {
+            "Throughput": 30539124.028607007
+        }
+    },
+    "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 64239664.1131333
+        },
+        "media-movel": {
+            "Throughput": 54924635.12662322
+        },
+        "mediana-movel": {
+            "Throughput": 54924635.12662322
+        },
+        "svd": {
+            "Throughput": 4560215.731282057
+        },
+        "interpolacao-linear": {
+            "Throughput": 55375570.68692734
+        }
+    },
+    "treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 40396691.67735282
+        },
+        "media-movel": {
+            "Throughput": 43705568.89697801
+        },
+        "mediana-movel": {
+            "Throughput": 43705568.89697801
+        },
+        "svd": {
+            "Throughput": 3450226.5
+        },
+        "interpolacao-linear": {
+            "Throughput": 42373264.59701598
+        }
+    },
+    "treated bbr esmond data se-es 07-07-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 30735875.36323295
+        },
+        "media-movel": {
+            "Throughput": 31665159.561104923
+        },
+        "mediana-movel": {
+            "Throughput": 31665159.561104923
+        },
+        "svd": {
+            "Throughput": 2850749.65
+        },
+        "interpolacao-linear": {
+            "Throughput": 32055217.388782088
+        }
+    },
+    "treated bbr esmond data to-ba 07-07-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 13171098.849456692
+        },
+        "media-movel": {
+            "Throughput": 15017444.042891119
+        },
+        "mediana-movel": {
+            "Throughput": 15017444.042891119
+        },
+        "svd": {
+            "Throughput": 1625879.0167860996
+        },
+        "interpolacao-linear": {
+            "Throughput": 14897686.351352917
+        }
+    },
+    "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 17101920.104797345
+        },
+        "media-movel": {
+            "Throughput": 15890562.46047024
+        },
+        "mediana-movel": {
+            "Throughput": 15890562.46047024
+        },
+        "svd": {
+            "Throughput": 2300732.0267605656
+        },
+        "interpolacao-linear": {
+            "Throughput": 15854986.512007533
+        }
+    },
+    "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 20385596.593242273
+        },
+        "media-movel": {
+            "Throughput": 19965870.65740246
+        },
+        "mediana-movel": {
+            "Throughput": 19965870.65740246
+        },
+        "svd": {
+            "Throughput": 3101270.6987523213
+        },
+        "interpolacao-linear": {
+            "Throughput": 20398903.047131933
+        }
+    },
+    "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 15721631.125242459
+        },
+        "media-movel": {
+            "Throughput": 12482397.37745771
+        },
+        "mediana-movel": {
+            "Throughput": 12482397.37745771
+        },
+        "svd": {
+            "Throughput": 2630886.815672462
+        },
+        "interpolacao-linear": {
+            "Throughput": 13008973.588471582
+        }
+    },
+    "treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 3585482.847522858
+        },
+        "media-movel": {
+            "Throughput": 3606049.431475479
+        },
+        "mediana-movel": {
+            "Throughput": 3606049.431475479
+        },
+        "svd": {
+            "Throughput": 778388.45
+        },
+        "interpolacao-linear": {
+            "Throughput": 3528588.340254094
+        }
+    },
+    "treated bbr esmond data go-se 07-03-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 1856719.5970707918
+        },
+        "media-movel": {
+            "Throughput": 2228844.2771345084
+        },
+        "mediana-movel": {
+            "Throughput": 2180636.6993186637
+        },
+        "svd": {
+            "Throughput": 458625.2107591232
+        },
+        "interpolacao-linear": {
+            "Throughput": 1384522.8253950735
+        }
+    },
+    "treated bbr esmond data ro-se 07-04-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 19092293.406550594
+        },
+        "media-movel": {
+            "Throughput": 13510603.855786404
+        },
+        "mediana-movel": {
+            "Throughput": 13510603.855786404
+        },
+        "svd": {
+            "Throughput": 3568734.9698291905
+        },
+        "interpolacao-linear": {
+            "Throughput": 12646249.024904238
+        }
+    },
+    "treated bbr esmond data to-rs 07-07-2023_longest_interval.csv": {
+        "knn": {
+            "Throughput": 16862862.74585258
+        },
+        "media-movel": {
+            "Throughput": 19380695.11508078
+        },
+        "mediana-movel": {
+            "Throughput": 19380695.11508078
+        },
+        "svd": {
+            "Throughput": 4788163.043731517
+        },
+        "interpolacao-linear": {
+            "Throughput": 18195737.028885584
+        }
+    }
+}
