@@ -1,144 +1,740 @@
 {
     "GRU": {
-        "svd": {
+        "interpolacao-linear": {
             "treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv": {
-                "nrmse": 1.3294543263965592e-17,
-                "nrmse_forecasting": 1.1435794950112114e-07,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv",
+                "nrmse": 1.4070672154829516e-07,
+                "nrmse_forecasting": 1.5865032740990474e-07,
                 "cv": 21.868220061923076,
-                "length": 720,
                 "nans_percentage": 28.055555555555557
             },
             "treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv": {
-                "nrmse": 3.283339760754795e-17,
-                "nrmse_forecasting": 8.430244263590146e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv",
+                "nrmse": 1.4463913812773e-07,
+                "nrmse_forecasting": 1.354809742512591e-07,
                 "cv": 22.013371564538204,
-                "length": 724,
                 "nans_percentage": 23.895027624309392
             },
             "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv": {
-                "nrmse": 0.0017465278722182582,
-                "nrmse_forecasting": 4.882034583763005e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv",
+                "nrmse": 9.460272180866647e-07,
+                "nrmse_forecasting": 5.273172427666359e-08,
                 "cv": 10.206255764568049,
-                "length": 724,
                 "nans_percentage": 25.828729281767952
             },
             "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv": {
-                "nrmse": 0.0027331382565657513,
-                "nrmse_forecasting": 1.0106659529302189e-07,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv",
+                "nrmse": 1.6759203415255815e-07,
+                "nrmse_forecasting": 1.1083890169059233e-07,
                 "cv": 3.491467014209901,
-                "length": 724,
                 "nans_percentage": 25.96685082872928
             },
             "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv": {
-                "nrmse": 0.0030697640561743325,
-                "nrmse_forecasting": 8.98801823119167e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv",
+                "nrmse": 1.2834690215651779e-07,
+                "nrmse_forecasting": 1.0777247226098007e-07,
                 "cv": 17.223827789752303,
-                "length": 724,
                 "nans_percentage": 31.077348066298345
             },
             "treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv": {
-                "nrmse": 0.004280801941946028,
-                "nrmse_forecasting": 5.514516654583916e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv",
+                "nrmse": 1.3777032362160625e-07,
+                "nrmse_forecasting": 9.014524434031316e-08,
                 "cv": 5.353497791848783,
-                "length": 724,
                 "nans_percentage": 13.950276243093922
             },
             "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv": {
-                "nrmse": 0.0015018787171082616,
-                "nrmse_forecasting": 7.234645620165624e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv",
+                "nrmse": 3.952672394104955e-07,
+                "nrmse_forecasting": 1.206023867408754e-07,
                 "cv": 11.58036599804202,
-                "length": 720,
                 "nans_percentage": 24.305555555555554
             },
             "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv": {
-                "nrmse": 0.007613701915527604,
-                "nrmse_forecasting": 6.513401979642045e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv",
+                "nrmse": 4.021964853984321e-07,
+                "nrmse_forecasting": 1.254917659711297e-07,
                 "cv": 2.821774275777994,
-                "length": 724,
                 "nans_percentage": 18.922651933701655
             },
             "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv": {
-                "nrmse": 0.010254611912936482,
-                "nrmse_forecasting": 5.735400841152677e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv",
+                "nrmse": 1.1545596093033257e-06,
+                "nrmse_forecasting": 1.0601066238622167e-07,
                 "cv": 1.8731979077143035,
-                "length": 724,
                 "nans_percentage": 28.03867403314917
             },
             "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv": {
-                "nrmse": 0.007503494527655188,
-                "nrmse_forecasting": 1.267121448855389e-07,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv",
+                "nrmse": 1.446958001054128e-07,
+                "nrmse_forecasting": 8.493916457677905e-08,
                 "cv": 12.674794230726455,
-                "length": 724,
                 "nans_percentage": 28.591160220994478
             },
             "treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv": {
-                "nrmse": 0.012111393686089574,
-                "nrmse_forecasting": 6.408087785611164e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv",
+                "nrmse": 3.7996547195981164e-07,
+                "nrmse_forecasting": 1.4791554679031708e-07,
                 "cv": 3.631532532259693,
-                "length": 724,
                 "nans_percentage": 24.03314917127072
             },
             "treated bbr esmond data se-es 07-07-2023_longest_interval.csv": {
-                "nrmse": 0.0034786964263021107,
-                "nrmse_forecasting": 1.4623392362788927e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data se-es 07-07-2023_longest_interval.csv",
+                "nrmse": 1.9236283260095583e-07,
+                "nrmse_forecasting": 4.8439853258795265e-08,
                 "cv": 4.471895443174693,
-                "length": 724,
                 "nans_percentage": 28.7292817679558
             },
             "treated bbr esmond data to-ba 07-07-2023_longest_interval.csv": {
-                "nrmse": 0.0020260799176310806,
-                "nrmse_forecasting": 3.679291168531206e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data to-ba 07-07-2023_longest_interval.csv",
+                "nrmse": 2.4467183309372024e-07,
+                "nrmse_forecasting": 1.1142440588516215e-07,
                 "cv": 5.2819035641439545,
-                "length": 724,
                 "nans_percentage": 20.165745856353592
             },
             "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv": {
-                "nrmse": 0.011848380073091008,
-                "nrmse_forecasting": 6.746677005122248e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv",
+                "nrmse": 3.938180501684765e-07,
+                "nrmse_forecasting": 1.266103533602562e-07,
                 "cv": 1.8479885549234343,
-                "length": 720,
                 "nans_percentage": 26.666666666666668
             },
             "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv": {
-                "nrmse": 0.01259221660746803,
-                "nrmse_forecasting": 8.293918073681472e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv",
+                "nrmse": 2.0885106659353144e-07,
+                "nrmse_forecasting": 8.499111354668991e-08,
                 "cv": 2.445809258470873,
-                "length": 720,
                 "nans_percentage": 28.194444444444443
             },
             "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv": {
-                "nrmse": 0.006114279417375117,
-                "nrmse_forecasting": 9.602183287151037e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv",
+                "nrmse": 1.8644456259781169e-07,
+                "nrmse_forecasting": 1.3740942865730588e-07,
                 "cv": 4.549473916964514,
-                "length": 720,
                 "nans_percentage": 28.888888888888886
             },
             "treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv": {
-                "nrmse": 0.000906924572407352,
-                "nrmse_forecasting": 1.779229640657744e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv",
+                "nrmse": 1.814624318017945e-07,
+                "nrmse_forecasting": 1.2230351026127364e-07,
                 "cv": 5.988264831011703,
-                "length": 720,
                 "nans_percentage": 36.52777777777778
             },
             "treated bbr esmond data go-se 07-03-2023_longest_interval.csv": {
-                "nrmse": 0.0018402645073070302,
-                "nrmse_forecasting": 4.011984677026702e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data go-se 07-03-2023_longest_interval.csv",
+                "nrmse": 8.82313300492864e-08,
+                "nrmse_forecasting": 8.129992384297331e-08,
                 "cv": 2.0563687570795244,
-                "length": 720,
                 "nans_percentage": 26.38888888888889
             },
             "treated bbr esmond data ro-se 07-04-2023_longest_interval.csv": {
-                "nrmse": 0.012196648407493753,
-                "nrmse_forecasting": 2.848178245294033e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data ro-se 07-04-2023_longest_interval.csv",
+                "nrmse": 2.042859783077834e-07,
+                "nrmse_forecasting": 4.140415658640325e-08,
                 "cv": 2.005400179415117,
-                "length": 724,
                 "nans_percentage": 22.513812154696133
             },
             "treated bbr esmond data to-rs 07-07-2023_longest_interval.csv": {
-                "nrmse": 0.005946761980226214,
-                "nrmse_forecasting": 7.27984538177417e-08,
+                "method": "interpolacao-linear",
+                "dataset": "treated bbr esmond data to-rs 07-07-2023_longest_interval.csv",
+                "nrmse": 2.1481024890949062e-07,
+                "nrmse_forecasting": 1.2744876217337957e-07,
                 "cv": 5.543067364731067,
-                "length": 724,
+                "nans_percentage": 20.718232044198896
+            }
+        },
+        "knn": {
+            "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv",
+                "nrmse": 9.826510199876498e-07,
+                "nrmse_forecasting": 4.958964017883619e-08,
+                "cv": 10.206255764568049,
+                "nans_percentage": 25.828729281767952
+            },
+            "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv",
+                "nrmse": 1.6499580904628633e-07,
+                "nrmse_forecasting": 9.913445247613861e-08,
+                "cv": 3.491467014209901,
+                "nans_percentage": 25.96685082872928
+            },
+            "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv",
+                "nrmse": 1.5402018204009586e-07,
+                "nrmse_forecasting": 1.1015553094687386e-07,
+                "cv": 17.223827789752303,
+                "nans_percentage": 31.077348066298345
+            },
+            "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv",
+                "nrmse": 4.361302386770793e-07,
+                "nrmse_forecasting": 1.3329034138805408e-07,
+                "cv": 11.58036599804202,
+                "nans_percentage": 24.305555555555554
+            },
+            "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv",
+                "nrmse": 4.002502249424083e-07,
+                "nrmse_forecasting": 1.2135108767238083e-07,
+                "cv": 2.821774275777994,
+                "nans_percentage": 18.922651933701655
+            },
+            "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv",
+                "nrmse": 1.1507462075258148e-06,
+                "nrmse_forecasting": 9.779235762743486e-08,
+                "cv": 1.8731979077143035,
+                "nans_percentage": 28.03867403314917
+            },
+            "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv",
+                "nrmse": 1.6785758561125119e-07,
+                "nrmse_forecasting": 8.768525185594977e-08,
+                "cv": 12.674794230726455,
+                "nans_percentage": 28.591160220994478
+            },
+            "treated bbr esmond data se-es 07-07-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data se-es 07-07-2023_longest_interval.csv",
+                "nrmse": 1.8444548279402765e-07,
+                "nrmse_forecasting": 4.5810434815933766e-08,
+                "cv": 4.471895443174693,
+                "nans_percentage": 28.7292817679558
+            },
+            "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv",
+                "nrmse": 4.2479032225651364e-07,
+                "nrmse_forecasting": 1.2016267514297397e-07,
+                "cv": 1.8479885549234343,
+                "nans_percentage": 26.666666666666668
+            },
+            "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv",
+                "nrmse": 2.087148304890207e-07,
+                "nrmse_forecasting": 7.425963013192848e-08,
+                "cv": 2.445809258470873,
+                "nans_percentage": 28.194444444444443
+            },
+            "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv": {
+                "method": "knn",
+                "dataset": "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv",
+                "nrmse": 2.2532236064093344e-07,
+                "nrmse_forecasting": 1.2873827914370393e-07,
+                "cv": 4.549473916964514,
+                "nans_percentage": 28.888888888888886
+            }
+        },
+        "svd": {
+            "treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv",
+                "nrmse": 2.6249748299469735e-23,
+                "nrmse_forecasting": 1.434134597020375e-07,
+                "cv": 21.868220061923076,
+                "nans_percentage": 28.055555555555557
+            },
+            "treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv",
+                "nrmse": 9.831417659801778e-23,
+                "nrmse_forecasting": 1.2528360034280048e-07,
+                "cv": 22.013371564538204,
+                "nans_percentage": 23.895027624309392
+            },
+            "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv",
+                "nrmse": 1.7709706989513216e-08,
+                "nrmse_forecasting": 5.8312917036760427e-08,
+                "cv": 10.206255764568049,
+                "nans_percentage": 25.828729281767952
+            },
+            "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv",
+                "nrmse": 3.3841337729803276e-09,
+                "nrmse_forecasting": 1.1619334527381597e-07,
+                "cv": 3.491467014209901,
+                "nans_percentage": 25.96685082872928
+            },
+            "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv",
+                "nrmse": 6.285923032512021e-09,
+                "nrmse_forecasting": 1.067875972919764e-07,
+                "cv": 17.223827789752303,
+                "nans_percentage": 31.077348066298345
+            },
+            "treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv",
+                "nrmse": 8.729262111358397e-09,
+                "nrmse_forecasting": 8.030190885474865e-08,
+                "cv": 5.353497791848783,
+                "nans_percentage": 13.950276243093922
+            },
+            "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv",
+                "nrmse": 2.4365302406446272e-08,
+                "nrmse_forecasting": 1.3023645690293753e-07,
+                "cv": 11.58036599804202,
+                "nans_percentage": 24.305555555555554
+            },
+            "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv",
+                "nrmse": 2.9628014345678907e-08,
+                "nrmse_forecasting": 1.2265753168387469e-07,
+                "cv": 2.821774275777994,
+                "nans_percentage": 18.922651933701655
+            },
+            "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv",
+                "nrmse": 9.94336512614378e-08,
+                "nrmse_forecasting": 9.72090120514398e-08,
+                "cv": 1.8731979077143035,
+                "nans_percentage": 28.03867403314917
+            },
+            "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv",
+                "nrmse": 2.229697253601106e-08,
+                "nrmse_forecasting": 1.3874916709687735e-07,
+                "cv": 12.674794230726455,
+                "nans_percentage": 28.591160220994478
+            },
+            "treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv",
+                "nrmse": 3.0955427971340275e-08,
+                "nrmse_forecasting": 9.029880213464758e-08,
+                "cv": 3.631532532259693,
+                "nans_percentage": 24.03314917127072
+            },
+            "treated bbr esmond data se-es 07-07-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data se-es 07-07-2023_longest_interval.csv",
+                "nrmse": 1.710730178676285e-08,
+                "nrmse_forecasting": 4.8663431126194183e-08,
+                "cv": 4.471895443174693,
+                "nans_percentage": 28.7292817679558
+            },
+            "treated bbr esmond data to-ba 07-07-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data to-ba 07-07-2023_longest_interval.csv",
+                "nrmse": 2.670258925068215e-08,
+                "nrmse_forecasting": 1.1518810248276017e-07,
+                "cv": 5.2819035641439545,
+                "nans_percentage": 20.165745856353592
+            },
+            "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv",
+                "nrmse": 5.714730820192214e-08,
+                "nrmse_forecasting": 1.1715957278668065e-07,
+                "cv": 1.8479885549234343,
+                "nans_percentage": 26.666666666666668
+            },
+            "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv",
+                "nrmse": 3.175188840954638e-08,
+                "nrmse_forecasting": 1.170055892325652e-07,
+                "cv": 2.445809258470873,
+                "nans_percentage": 28.194444444444443
+            },
+            "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv",
+                "nrmse": 4.705925547226219e-08,
+                "nrmse_forecasting": 1.2453454851281058e-07,
+                "cv": 4.549473916964514,
+                "nans_percentage": 28.888888888888886
+            },
+            "treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv",
+                "nrmse": 9.142116927108505e-08,
+                "nrmse_forecasting": 1.2019956168321675e-07,
+                "cv": 5.988264831011703,
+                "nans_percentage": 36.52777777777778
+            },
+            "treated bbr esmond data go-se 07-03-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data go-se 07-03-2023_longest_interval.csv",
+                "nrmse": 3.210513853201641e-08,
+                "nrmse_forecasting": 6.327703917854626e-08,
+                "cv": 2.0563687570795244,
+                "nans_percentage": 26.38888888888889
+            },
+            "treated bbr esmond data ro-se 07-04-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data ro-se 07-04-2023_longest_interval.csv",
+                "nrmse": 2.0099454744646948e-07,
+                "nrmse_forecasting": 3.9777966182903043e-08,
+                "cv": 2.005400179415117,
+                "nans_percentage": 22.513812154696133
+            },
+            "treated bbr esmond data to-rs 07-07-2023_longest_interval.csv": {
+                "method": "svd",
+                "dataset": "treated bbr esmond data to-rs 07-07-2023_longest_interval.csv",
+                "nrmse": 5.6526783917045085e-08,
+                "nrmse_forecasting": 1.270015414121412e-07,
+                "cv": 5.543067364731067,
+                "nans_percentage": 20.718232044198896
+            }
+        },
+        "media-movel": {
+            "treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv",
+                "nrmse": 1.6173112778312743e-07,
+                "nrmse_forecasting": 1.7563746900619235e-07,
+                "cv": 21.868220061923076,
+                "nans_percentage": 28.055555555555557
+            },
+            "treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv",
+                "nrmse": 1.3751778285672134e-07,
+                "nrmse_forecasting": 1.3892564362253177e-07,
+                "cv": 22.013371564538204,
+                "nans_percentage": 23.895027624309392
+            },
+            "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv",
+                "nrmse": 9.552019734828317e-07,
+                "nrmse_forecasting": 5.19913276670871e-08,
+                "cv": 10.206255764568049,
+                "nans_percentage": 25.828729281767952
+            },
+            "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv",
+                "nrmse": 1.6994889572624975e-07,
+                "nrmse_forecasting": 1.1876953128810074e-07,
+                "cv": 3.491467014209901,
+                "nans_percentage": 25.96685082872928
+            },
+            "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv",
+                "nrmse": 1.8658692246154212e-07,
+                "nrmse_forecasting": 1.266138347087353e-07,
+                "cv": 17.223827789752303,
+                "nans_percentage": 31.077348066298345
+            },
+            "treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv",
+                "nrmse": 1.6302933283303873e-07,
+                "nrmse_forecasting": 9.137296239064096e-08,
+                "cv": 5.353497791848783,
+                "nans_percentage": 13.950276243093922
+            },
+            "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv",
+                "nrmse": 4.236475784455153e-07,
+                "nrmse_forecasting": 1.3776141425903e-07,
+                "cv": 11.58036599804202,
+                "nans_percentage": 24.305555555555554
+            },
+            "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv",
+                "nrmse": 4.027964746169068e-07,
+                "nrmse_forecasting": 1.2556308443763925e-07,
+                "cv": 2.821774275777994,
+                "nans_percentage": 18.922651933701655
+            },
+            "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv",
+                "nrmse": 1.1160684584579311e-06,
+                "nrmse_forecasting": 1.1048409982720045e-07,
+                "cv": 1.8731979077143035,
+                "nans_percentage": 28.03867403314917
+            },
+            "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv",
+                "nrmse": 1.4351751009621225e-07,
+                "nrmse_forecasting": 8.539787959963044e-08,
+                "cv": 12.674794230726455,
+                "nans_percentage": 28.591160220994478
+            },
+            "treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv",
+                "nrmse": 3.919123832243455e-07,
+                "nrmse_forecasting": 1.3823595351109725e-07,
+                "cv": 3.631532532259693,
+                "nans_percentage": 24.03314917127072
+            },
+            "treated bbr esmond data se-es 07-07-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data se-es 07-07-2023_longest_interval.csv",
+                "nrmse": 1.9002210198914557e-07,
+                "nrmse_forecasting": 4.7075329002680984e-08,
+                "cv": 4.471895443174693,
+                "nans_percentage": 28.7292817679558
+            },
+            "treated bbr esmond data to-ba 07-07-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data to-ba 07-07-2023_longest_interval.csv",
+                "nrmse": 2.466386709787898e-07,
+                "nrmse_forecasting": 1.1091952717836928e-07,
+                "cv": 5.2819035641439545,
+                "nans_percentage": 20.165745856353592
+            },
+            "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv",
+                "nrmse": 3.9470171226720276e-07,
+                "nrmse_forecasting": 1.252456632198897e-07,
+                "cv": 1.8479885549234343,
+                "nans_percentage": 26.666666666666668
+            },
+            "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv",
+                "nrmse": 2.04417530326626e-07,
+                "nrmse_forecasting": 8.158020052654389e-08,
+                "cv": 2.445809258470873,
+                "nans_percentage": 28.194444444444443
+            },
+            "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv",
+                "nrmse": 1.788976742388486e-07,
+                "nrmse_forecasting": 1.410589758574849e-07,
+                "cv": 4.549473916964514,
+                "nans_percentage": 28.888888888888886
+            },
+            "treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv",
+                "nrmse": 1.854459732715373e-07,
+                "nrmse_forecasting": 1.231655650199526e-07,
+                "cv": 5.988264831011703,
+                "nans_percentage": 36.52777777777778
+            },
+            "treated bbr esmond data go-se 07-03-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data go-se 07-03-2023_longest_interval.csv",
+                "nrmse": 1.4203730804380404e-07,
+                "nrmse_forecasting": 8.203326153628524e-08,
+                "cv": 2.0563687570795244,
+                "nans_percentage": 26.38888888888889
+            },
+            "treated bbr esmond data ro-se 07-04-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data ro-se 07-04-2023_longest_interval.csv",
+                "nrmse": 2.182486617789132e-07,
+                "nrmse_forecasting": 4.178700177062452e-08,
+                "cv": 2.005400179415117,
+                "nans_percentage": 22.513812154696133
+            },
+            "treated bbr esmond data to-rs 07-07-2023_longest_interval.csv": {
+                "method": "media-movel",
+                "dataset": "treated bbr esmond data to-rs 07-07-2023_longest_interval.csv",
+                "nrmse": 2.2879930255644217e-07,
+                "nrmse_forecasting": 1.2531690138025484e-07,
+                "cv": 5.543067364731067,
+                "nans_percentage": 20.718232044198896
+            }
+        },
+        "mediana-movel": {
+            "treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv",
+                "nrmse": 1.6173112778312743e-07,
+                "nrmse_forecasting": 1.7540021535396317e-07,
+                "cv": 21.868220061923076,
+                "nans_percentage": 28.055555555555557
+            },
+            "treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv",
+                "nrmse": 1.3751778285672134e-07,
+                "nrmse_forecasting": 1.3585860889247646e-07,
+                "cv": 22.013371564538204,
+                "nans_percentage": 23.895027624309392
+            },
+            "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data rj-am 07-08-2023_longest_interval.csv",
+                "nrmse": 9.552019734828317e-07,
+                "nrmse_forecasting": 5.308104182470847e-08,
+                "cv": 10.206255764568049,
+                "nans_percentage": 25.828729281767952
+            },
+            "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data ba-go 07-03-2023_longest_interval.csv",
+                "nrmse": 1.6994889572624975e-07,
+                "nrmse_forecasting": 1.218112469232299e-07,
+                "cv": 3.491467014209901,
+                "nans_percentage": 25.96685082872928
+            },
+            "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data ce-am 07-03-2023_longest_interval.csv",
+                "nrmse": 1.8658692246154212e-07,
+                "nrmse_forecasting": 1.2770820039888484e-07,
+                "cv": 17.223827789752303,
+                "nans_percentage": 31.077348066298345
+            },
+            "treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv",
+                "nrmse": 1.6302933283303873e-07,
+                "nrmse_forecasting": 9.300520037825106e-08,
+                "cv": 5.353497791848783,
+                "nans_percentage": 13.950276243093922
+            },
+            "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data rj-go 07-08-2023_longest_interval.csv",
+                "nrmse": 4.236475784455153e-07,
+                "nrmse_forecasting": 1.414377039737161e-07,
+                "cv": 11.58036599804202,
+                "nans_percentage": 24.305555555555554
+            },
+            "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data pb-es 07-08-2023_longest_interval.csv",
+                "nrmse": 4.027964746169068e-07,
+                "nrmse_forecasting": 1.2555162984937885e-07,
+                "cv": 2.821774275777994,
+                "nans_percentage": 18.922651933701655
+            },
+            "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv",
+                "nrmse": 1.1160684584579311e-06,
+                "nrmse_forecasting": 1.111693131342356e-07,
+                "cv": 1.8731979077143035,
+                "nans_percentage": 28.03867403314917
+            },
+            "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv",
+                "nrmse": 1.4351751009621225e-07,
+                "nrmse_forecasting": 8.23605530001989e-08,
+                "cv": 12.674794230726455,
+                "nans_percentage": 28.591160220994478
+            },
+            "treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv",
+                "nrmse": 3.919123832243455e-07,
+                "nrmse_forecasting": 1.4184270968474753e-07,
+                "cv": 3.631532532259693,
+                "nans_percentage": 24.03314917127072
+            },
+            "treated bbr esmond data se-es 07-07-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data se-es 07-07-2023_longest_interval.csv",
+                "nrmse": 1.9002210198914557e-07,
+                "nrmse_forecasting": 4.6101198408314714e-08,
+                "cv": 4.471895443174693,
+                "nans_percentage": 28.7292817679558
+            },
+            "treated bbr esmond data to-ba 07-07-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data to-ba 07-07-2023_longest_interval.csv",
+                "nrmse": 2.466386709787898e-07,
+                "nrmse_forecasting": 1.1078747583248248e-07,
+                "cv": 5.2819035641439545,
+                "nans_percentage": 20.165745856353592
+            },
+            "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data es-pr 07-03-2023_longest_interval.csv",
+                "nrmse": 3.9470171226720276e-07,
+                "nrmse_forecasting": 1.2540790265139104e-07,
+                "cv": 1.8479885549234343,
+                "nans_percentage": 26.666666666666668
+            },
+            "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data rs-go 07-07-2023_longest_interval.csv",
+                "nrmse": 2.04417530326626e-07,
+                "nrmse_forecasting": 8.312860813247876e-08,
+                "cv": 2.445809258470873,
+                "nans_percentage": 28.194444444444443
+            },
+            "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv",
+                "nrmse": 1.788976742388486e-07,
+                "nrmse_forecasting": 1.4246334772323375e-07,
+                "cv": 4.549473916964514,
+                "nans_percentage": 28.888888888888886
+            },
+            "treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv",
+                "nrmse": 1.854459732715373e-07,
+                "nrmse_forecasting": 1.2467909333604303e-07,
+                "cv": 5.988264831011703,
+                "nans_percentage": 36.52777777777778
+            },
+            "treated bbr esmond data go-se 07-03-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data go-se 07-03-2023_longest_interval.csv",
+                "nrmse": 1.3896518916563912e-07,
+                "nrmse_forecasting": 8.542355462059932e-08,
+                "cv": 2.0563687570795244,
+                "nans_percentage": 26.38888888888889
+            },
+            "treated bbr esmond data ro-se 07-04-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data ro-se 07-04-2023_longest_interval.csv",
+                "nrmse": 2.182486617789132e-07,
+                "nrmse_forecasting": 4.192380012416282e-08,
+                "cv": 2.005400179415117,
+                "nans_percentage": 22.513812154696133
+            },
+            "treated bbr esmond data to-rs 07-07-2023_longest_interval.csv": {
+                "method": "mediana-movel",
+                "dataset": "treated bbr esmond data to-rs 07-07-2023_longest_interval.csv",
+                "nrmse": 2.2879930255644217e-07,
+                "nrmse_forecasting": 1.2605385844395198e-07,
+                "cv": 5.543067364731067,
                 "nans_percentage": 20.718232044198896
             }
         }

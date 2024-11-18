@@ -1,0 +1,602 @@
+{
+    "reg_svd - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 28.74373815028934,
+        "MAE": 15.978562075698667,
+        "NRMSE": 0.1501389427302014
+    },
+    "reg_svd - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 29.003482105466656,
+        "MAE": 16.161275883390342,
+        "NRMSE": 0.1514956793733958
+    },
+    "reg_svd - treated bbr esmond data ba-go 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 17.928908603634106,
+        "MAE": 11.053157203675763,
+        "NRMSE": 0.17681364723536142
+    },
+    "reg_svd - treated bbr esmond data ba-go 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 17.9256835470408,
+        "MAE": 10.99561338018289,
+        "NRMSE": 0.17678184195198307
+    },
+    "reg_svd - treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 20.27321176406969,
+        "MAE": 8.772555887610823,
+        "NRMSE": 0.1169546317575363
+    },
+    "reg_svd - treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 20.368987813158483,
+        "MAE": 8.990288051601137,
+        "NRMSE": 0.11750715657120317
+    },
+    "reg_svd - treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 559.5323782682133,
+        "MAE": 361.8876155270318,
+        "NRMSE": 0.17161937548369255
+    },
+    "reg_svd - treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 559.0222900346287,
+        "MAE": 355.3438823019214,
+        "NRMSE": 0.17146292158131013
+    },
+    "reg_svd - treated bbr esmond data ce-am 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 74.20031435431436,
+        "MAE": 49.697438423497566,
+        "NRMSE": 0.11060095274553376
+    },
+    "reg_svd - treated bbr esmond data ce-am 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 74.78716243300488,
+        "MAE": 50.361253344272214,
+        "NRMSE": 0.11147569239030299
+    },
+    "reg_svd - treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 13.104885987917669,
+        "MAE": 6.853355705698427,
+        "NRMSE": 0.11829726844688111
+    },
+    "reg_svd - treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 13.298367905796725,
+        "MAE": 7.078279871185445,
+        "NRMSE": 0.12004382178584634
+    },
+    "reg_svd - treated bbr esmond data es-pr 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 13.503350996552394,
+        "MAE": 8.383889612762129,
+        "NRMSE": 0.12075979192252723
+    },
+    "reg_svd - treated bbr esmond data es-pr 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 13.99396898806647,
+        "MAE": 8.76389060690695,
+        "NRMSE": 0.1251473640580523
+    },
+    "reg_svd - treated bbr esmond data go-se 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 12.251334309020839,
+        "MAE": 6.8955101736946744,
+        "NRMSE": 0.11019110785551335
+    },
+    "reg_svd - treated bbr esmond data go-se 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 12.39669040648901,
+        "MAE": 6.944543864434583,
+        "NRMSE": 0.11149847152787501
+    },
+    "reg_svd - treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 42.51857113824178,
+        "MAE": 23.622793262286606,
+        "NRMSE": 0.14038945071033077
+    },
+    "reg_svd - treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 43.5085579269092,
+        "MAE": 24.60400228297061,
+        "NRMSE": 0.14365822710029036
+    },
+    "reg_svd - treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 44.64734415793171,
+        "MAE": 35.1481134766914,
+        "NRMSE": 0.1805776360838652
+    },
+    "reg_svd - treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 47.70250863812639,
+        "MAE": 36.86211777938787,
+        "NRMSE": 0.1929343482262365
+    },
+    "reg_svd - treated bbr esmond data pb-es 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 27.733332524766507,
+        "MAE": 14.633717224811482,
+        "NRMSE": 0.1216569818484042
+    },
+    "reg_svd - treated bbr esmond data pb-es 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 28.009391652448258,
+        "MAE": 14.973604214251031,
+        "NRMSE": 0.12286796218246515
+    },
+    "reg_svd - treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 14.982653081528222,
+        "MAE": 7.0370537607730625,
+        "NRMSE": 0.14849130222288956
+    },
+    "reg_svd - treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 15.576767669865964,
+        "MAE": 7.55411935399865,
+        "NRMSE": 0.15437950162334504
+    },
+    "reg_svd - treated bbr esmond data rj-am 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 38.83154375186758,
+        "MAE": 18.054841727362962,
+        "NRMSE": 0.11827932876785016
+    },
+    "reg_svd - treated bbr esmond data rj-am 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 38.23919469692564,
+        "MAE": 18.07778016619748,
+        "NRMSE": 0.1164750572440987
+    },
+    "reg_svd - treated bbr esmond data rj-go 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 69.00308662991027,
+        "MAE": 31.289607022492252,
+        "NRMSE": 0.15077639175075777
+    },
+    "reg_svd - treated bbr esmond data rj-go 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 71.15199661193662,
+        "MAE": 32.314371224227784,
+        "NRMSE": 0.1554719047938899
+    },
+    "reg_svd - treated bbr esmond data ro-se 07-04-2023_longest_interval.csv, GRU": {
+        "RMSE": 8.476181027462395,
+        "MAE": 4.81902745136078,
+        "NRMSE": 0.12051644469724093
+    },
+    "reg_svd - treated bbr esmond data ro-se 07-04-2023_longest_interval.csv, LSTM": {
+        "RMSE": 8.795731518122711,
+        "MAE": 5.14317117137897,
+        "NRMSE": 0.12505989285046773
+    },
+    "reg_svd - treated bbr esmond data rs-go 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 13.095994820700371,
+        "MAE": 6.811598035512243,
+        "NRMSE": 0.10803942431348487
+    },
+    "reg_svd - treated bbr esmond data rs-go 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 13.251923952755526,
+        "MAE": 7.049643995859115,
+        "NRMSE": 0.10932580949396094
+    },
+    "reg_svd - treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 373.6987157714551,
+        "MAE": 209.04363217136452,
+        "NRMSE": 0.14288411228642764
+    },
+    "reg_svd - treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 373.7270287587394,
+        "MAE": 209.2887049252445,
+        "NRMSE": 0.14289493778805118
+    },
+    "reg_svd - treated bbr esmond data se-es 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 11.17571583534455,
+        "MAE": 7.290178883637746,
+        "NRMSE": 0.13913698334939578
+    },
+    "reg_svd - treated bbr esmond data se-es 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 11.325951874550256,
+        "MAE": 7.468087665382909,
+        "NRMSE": 0.14100741291233565
+    },
+    "reg_svd - treated bbr esmond data to-ba 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 28.006715532917703,
+        "MAE": 21.227137553681896,
+        "NRMSE": 0.1687272493203892
+    },
+    "reg_svd - treated bbr esmond data to-ba 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 28.200154837934516,
+        "MAE": 21.1246339059311,
+        "NRMSE": 0.16989262988090417
+    },
+    "reg_svd - treated bbr esmond data to-rs 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 56.25518193129145,
+        "MAE": 28.628435767486437,
+        "NRMSE": 0.12511506396621003
+    },
+    "reg_svd - treated bbr esmond data to-rs 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 56.69694613088065,
+        "MAE": 29.08830397179431,
+        "NRMSE": 0.12609757534013272
+    },
+    "smothnization - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 28.663109878763784,
+        "MAE": 15.88471178327181,
+        "NRMSE": 0.14971779209983743
+    },
+    "smothnization - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 29.17076892050063,
+        "MAE": 16.304436655367194,
+        "NRMSE": 0.15236947892620906
+    },
+    "smothnization - treated bbr esmond data ba-go 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 17.920462612008194,
+        "MAE": 11.043169925028455,
+        "NRMSE": 0.17673035345452334
+    },
+    "smothnization - treated bbr esmond data ba-go 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 17.93726740720512,
+        "MAE": 11.052229934980424,
+        "NRMSE": 0.17689608117367794
+    },
+    "smothnization - treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 20.345508292494415,
+        "MAE": 8.937482626040012,
+        "NRMSE": 0.11737170498488975
+    },
+    "smothnization - treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 20.331045743569298,
+        "MAE": 8.895979149615057,
+        "NRMSE": 0.11728827162941076
+    },
+    "smothnization - treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 563.5076698064639,
+        "MAE": 367.07535794835684,
+        "NRMSE": 0.17283867409384937
+    },
+    "smothnization - treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 559.5678699666593,
+        "MAE": 358.29183220839167,
+        "NRMSE": 0.17163026147234794
+    },
+    "smothnization - treated bbr esmond data ce-am 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 74.2933391199626,
+        "MAE": 49.83705161534396,
+        "NRMSE": 0.11073961290889231
+    },
+    "smothnization - treated bbr esmond data ce-am 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 74.7867910599895,
+        "MAE": 50.37034027552772,
+        "NRMSE": 0.1114751388318756
+    },
+    "smothnization - treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 13.163456211970438,
+        "MAE": 6.942591593973289,
+        "NRMSE": 0.11882597945773252
+    },
+    "smothnization - treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 13.21022826700886,
+        "MAE": 6.916225943616111,
+        "NRMSE": 0.11924818888067552
+    },
+    "smothnization - treated bbr esmond data es-pr 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 13.608293243780382,
+        "MAE": 8.5046517817005,
+        "NRMSE": 0.12169828518559737
+    },
+    "smothnization - treated bbr esmond data es-pr 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 14.138980271822927,
+        "MAE": 8.914823113168014,
+        "NRMSE": 0.12644419270875693
+    },
+    "smothnization - treated bbr esmond data go-se 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 12.23217250453351,
+        "MAE": 6.8481482359089405,
+        "NRMSE": 0.1100187625083282
+    },
+    "smothnization - treated bbr esmond data go-se 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 12.384625954623916,
+        "MAE": 6.956329453572602,
+        "NRMSE": 0.11138996128048868
+    },
+    "smothnization - treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 42.45460953020383,
+        "MAE": 23.449395572406523,
+        "NRMSE": 0.1401782598170667
+    },
+    "smothnization - treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 43.0980719249434,
+        "MAE": 24.296647982500097,
+        "NRMSE": 0.14230286865814304
+    },
+    "smothnization - treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 44.42340615928944,
+        "MAE": 35.12228665481092,
+        "NRMSE": 0.17967191156235435
+    },
+    "smothnization - treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 47.58945154294659,
+        "MAE": 36.80609395332605,
+        "NRMSE": 0.19247708512637865
+    },
+    "smothnization - treated bbr esmond data pb-es 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 27.762489840093668,
+        "MAE": 14.680107517419664,
+        "NRMSE": 0.12178488537310096
+    },
+    "smothnization - treated bbr esmond data pb-es 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 28.064759866414217,
+        "MAE": 15.038282246023684,
+        "NRMSE": 0.12311084427373277
+    },
+    "smothnization - treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 15.139006698258973,
+        "MAE": 7.2052217908688165,
+        "NRMSE": 0.1500409044214634
+    },
+    "smothnization - treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 15.575156490073855,
+        "MAE": 7.554428858514387,
+        "NRMSE": 0.15436353341103004
+    },
+    "smothnization - treated bbr esmond data rj-am 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 39.08899236421251,
+        "MAE": 18.480195222173425,
+        "NRMSE": 0.11906350694152651
+    },
+    "smothnization - treated bbr esmond data rj-am 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 38.29991734048271,
+        "MAE": 18.18144427474749,
+        "NRMSE": 0.11666001598709472
+    },
+    "smothnization - treated bbr esmond data rj-go 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 68.85230445659724,
+        "MAE": 31.010845962854294,
+        "NRMSE": 0.15044692254665668
+    },
+    "smothnization - treated bbr esmond data rj-go 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 70.74385097019616,
+        "MAE": 32.14998878168567,
+        "NRMSE": 0.15458007907744797
+    },
+    "smothnization - treated bbr esmond data ro-se 07-04-2023_longest_interval.csv, GRU": {
+        "RMSE": 8.605856957138014,
+        "MAE": 4.975560276239643,
+        "NRMSE": 0.12236020923656364
+    },
+    "smothnization - treated bbr esmond data ro-se 07-04-2023_longest_interval.csv, LSTM": {
+        "RMSE": 8.84291202845754,
+        "MAE": 5.174431718227776,
+        "NRMSE": 0.12573071705138236
+    },
+    "smothnization - treated bbr esmond data rs-go 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 13.121928558865491,
+        "MAE": 6.941838430193734,
+        "NRMSE": 0.10825337263738226
+    },
+    "smothnization - treated bbr esmond data rs-go 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 13.300317592314025,
+        "MAE": 7.011746293049899,
+        "NRMSE": 0.10972504766027967
+    },
+    "smothnization - treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 373.1402865985613,
+        "MAE": 208.86568008093948,
+        "NRMSE": 0.14267059628202003
+    },
+    "smothnization - treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 374.0862955995573,
+        "MAE": 209.57166808104066,
+        "NRMSE": 0.1430323038571805
+    },
+    "smothnization - treated bbr esmond data se-es 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 11.203907468628142,
+        "MAE": 7.318140899015166,
+        "NRMSE": 0.1394879674714482
+    },
+    "smothnization - treated bbr esmond data se-es 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 11.420463279354381,
+        "MAE": 7.582626327134666,
+        "NRMSE": 0.142184074161629
+    },
+    "smothnization - treated bbr esmond data to-ba 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 27.972625534982456,
+        "MAE": 21.068249717386806,
+        "NRMSE": 0.16852187316429593
+    },
+    "smothnization - treated bbr esmond data to-ba 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 28.136844009035993,
+        "MAE": 21.155846511152294,
+        "NRMSE": 0.1695112120027641
+    },
+    "smothnization - treated bbr esmond data to-rs 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 55.95296373053051,
+        "MAE": 27.962050986318957,
+        "NRMSE": 0.12444291167335743
+    },
+    "smothnization - treated bbr esmond data to-rs 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 57.33451937627715,
+        "MAE": 29.869811293297133,
+        "NRMSE": 0.12751557835145275
+    },
+    "weightned_rolling_mean - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 28.598754274413672,
+        "MAE": 16.377539499796367,
+        "NRMSE": 0.1493816394969516
+    },
+    "weightned_rolling_mean - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 29.137177721766964,
+        "MAE": 16.864969784387764,
+        "NRMSE": 0.15219401994322837
+    },
+    "weightned_rolling_mean - treated bbr esmond data ba-go 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 18.365148873720965,
+        "MAE": 13.27458061538141,
+        "NRMSE": 0.18111581837863794
+    },
+    "weightned_rolling_mean - treated bbr esmond data ba-go 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 18.471758684544106,
+        "MAE": 13.499004643315876,
+        "NRMSE": 0.182167196903647
+    },
+    "weightned_rolling_mean - treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 21.330638102469184,
+        "MAE": 11.83623056884543,
+        "NRMSE": 0.12305484466200639
+    },
+    "weightned_rolling_mean - treated bbr esmond data ba-pa 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 21.583709434020367,
+        "MAE": 12.049517374053657,
+        "NRMSE": 0.1245147941132529
+    },
+    "weightned_rolling_mean - treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 537.119042896094,
+        "MAE": 395.6142865574247,
+        "NRMSE": 0.1647447731041573
+    },
+    "weightned_rolling_mean - treated bbr esmond data ba-pe 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 539.3458381682113,
+        "MAE": 395.5218817876396,
+        "NRMSE": 0.1654277741757193
+    },
+    "weightned_rolling_mean - treated bbr esmond data ce-am 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 73.175633052795,
+        "MAE": 44.54521172248805,
+        "NRMSE": 0.1090735909116282
+    },
+    "weightned_rolling_mean - treated bbr esmond data ce-am 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 74.50144150760943,
+        "MAE": 49.135070635688,
+        "NRMSE": 0.11104980461822193
+    },
+    "weightned_rolling_mean - treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 13.147516110475838,
+        "MAE": 7.283599285789183,
+        "NRMSE": 0.11868208881516487
+    },
+    "weightned_rolling_mean - treated bbr esmond data ce-ro 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 13.25852159865764,
+        "MAE": 7.449057192373887,
+        "NRMSE": 0.11968413080520027
+    },
+    "weightned_rolling_mean - treated bbr esmond data es-pr 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 13.546554629291926,
+        "MAE": 8.05559510675764,
+        "NRMSE": 0.121146159847145
+    },
+    "weightned_rolling_mean - treated bbr esmond data es-pr 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 13.959324163653749,
+        "MAE": 8.360821025727942,
+        "NRMSE": 0.12483753712780804
+    },
+    "weightned_rolling_mean - treated bbr esmond data go-se 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 12.125645998870393,
+        "MAE": 6.670775163057082,
+        "NRMSE": 0.10906064044758643
+    },
+    "weightned_rolling_mean - treated bbr esmond data go-se 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 12.491968873939333,
+        "MAE": 6.9430178739330115,
+        "NRMSE": 0.11235542633935183
+    },
+    "weightned_rolling_mean - treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 40.513332632386344,
+        "MAE": 23.706646987583685,
+        "NRMSE": 0.13376847721936008
+    },
+    "weightned_rolling_mean - treated bbr esmond data ma-rj 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 40.5352584476175,
+        "MAE": 24.258674061188135,
+        "NRMSE": 0.13384087271794518
+    },
+    "weightned_rolling_mean - treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 44.568354030378224,
+        "MAE": 38.791824336451306,
+        "NRMSE": 0.18025815794296804
+    },
+    "weightned_rolling_mean - treated bbr esmond data pb-ac 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 42.90947058784329,
+        "MAE": 36.43833969745202,
+        "NRMSE": 0.1735487498865337
+    },
+    "weightned_rolling_mean - treated bbr esmond data pb-es 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 27.382419000628612,
+        "MAE": 14.331294763917802,
+        "NRMSE": 0.12011763996807738
+    },
+    "weightned_rolling_mean - treated bbr esmond data pb-es 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 27.750032226531257,
+        "MAE": 14.83505247903061,
+        "NRMSE": 0.12173023793159052
+    },
+    "weightned_rolling_mean - treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 14.714027544811787,
+        "MAE": 7.934178954718555,
+        "NRMSE": 0.1458289863072575
+    },
+    "weightned_rolling_mean - treated bbr esmond data pr-pa 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 15.046037869144204,
+        "MAE": 8.227997815783757,
+        "NRMSE": 0.14911950135444538
+    },
+    "weightned_rolling_mean - treated bbr esmond data rj-am 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 39.180341518276904,
+        "MAE": 19.298117042688855,
+        "NRMSE": 0.11934175281027923
+    },
+    "weightned_rolling_mean - treated bbr esmond data rj-am 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 38.69578284031166,
+        "MAE": 19.783533089314993,
+        "NRMSE": 0.11786580646252143
+    },
+    "weightned_rolling_mean - treated bbr esmond data rj-go 07-08-2023_longest_interval.csv, GRU": {
+        "RMSE": 62.873729781513156,
+        "MAE": 32.61156370798224,
+        "NRMSE": 0.13738333421536453
+    },
+    "weightned_rolling_mean - treated bbr esmond data rj-go 07-08-2023_longest_interval.csv, LSTM": {
+        "RMSE": 64.18218828707852,
+        "MAE": 32.69418998723859,
+        "NRMSE": 0.14024240417672504
+    },
+    "weightned_rolling_mean - treated bbr esmond data ro-se 07-04-2023_longest_interval.csv, GRU": {
+        "RMSE": 8.496649371061395,
+        "MAE": 4.935982949919285,
+        "NRMSE": 0.12080746868450604
+    },
+    "weightned_rolling_mean - treated bbr esmond data ro-se 07-04-2023_longest_interval.csv, LSTM": {
+        "RMSE": 8.732545376435985,
+        "MAE": 5.140751013391673,
+        "NRMSE": 0.12416149661216794
+    },
+    "weightned_rolling_mean - treated bbr esmond data rs-go 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 14.195313147454309,
+        "MAE": 8.792778088150625,
+        "NRMSE": 0.11710858788493222
+    },
+    "weightned_rolling_mean - treated bbr esmond data rs-go 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 14.324207270625518,
+        "MAE": 8.724969441548396,
+        "NRMSE": 0.1181719394710826
+    },
+    "weightned_rolling_mean - treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 382.5434234000817,
+        "MAE": 250.8602426257804,
+        "NRMSE": 0.1462658959121498
+    },
+    "weightned_rolling_mean - treated bbr esmond data rs-pe 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 385.58637476000223,
+        "MAE": 262.62515748224837,
+        "NRMSE": 0.14742937168940917
+    },
+    "weightned_rolling_mean - treated bbr esmond data se-es 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 10.989804928845793,
+        "MAE": 6.734674566579741,
+        "NRMSE": 0.1368224038555095
+    },
+    "weightned_rolling_mean - treated bbr esmond data se-es 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 11.027224754412467,
+        "MAE": 6.96034835907611,
+        "NRMSE": 0.1372882784109757
+    },
+    "weightned_rolling_mean - treated bbr esmond data to-ba 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 27.52020418805179,
+        "MAE": 20.211569305353684,
+        "NRMSE": 0.16579624797230513
+    },
+    "weightned_rolling_mean - treated bbr esmond data to-ba 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 27.66985785990718,
+        "MAE": 20.128039818949386,
+        "NRMSE": 0.16669784074826552
+    },
+    "weightned_rolling_mean - treated bbr esmond data to-rs 07-07-2023_longest_interval.csv, GRU": {
+        "RMSE": 55.95265301844241,
+        "MAE": 30.287605437354312,
+        "NRMSE": 0.12444222063012474
+    },
+    "weightned_rolling_mean - treated bbr esmond data to-rs 07-07-2023_longest_interval.csv, LSTM": {
+        "RMSE": 56.619608054803244,
+        "MAE": 31.13710916014993,
+        "NRMSE": 0.1259255705931342
+    }
+}
