@@ -1,0 +1,49 @@
+Correlação entre pares de DataFrames:
+
+DF1_DF2:
+Vazao        -0.321755
+Vazao_bbr     0.326281
+Hop_count          NaN
+Atraso(ms)   -0.175810
+Bottleneck         NaN
+dtype: float64
+
+DF1_DF3:
+Vazao         0.616123
+Vazao_bbr    -0.400130
+Hop_count          NaN
+Atraso(ms)    0.806524
+Bottleneck         NaN
+dtype: float64
+
+DF1_DF4:
+Vazao        -0.421962
+Vazao_bbr    -0.499782
+Hop_count          NaN
+Atraso(ms)    0.897896
+Bottleneck         NaN
+dtype: float64
+
+DF2_DF3:
+Vazao         0.255874
+Vazao_bbr    -0.164168
+Hop_count          NaN
+Atraso(ms)    0.047488
+Bottleneck         NaN
+dtype: float64
+
+DF2_DF4:
+Vazao         0.099645
+Vazao_bbr     0.128521
+Hop_count          NaN
+Atraso(ms)    0.033572
+Bottleneck         NaN
+dtype: float64
+
+DF3_DF4:
+Vazao        -0.265934
+Vazao_bbr     0.093019
+Hop_count          NaN
+Atraso(ms)    0.859203
+Bottleneck         NaN
+dtype: float64

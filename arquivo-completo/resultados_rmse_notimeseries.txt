@@ -1,0 +1,9 @@
+Alvo: Vazao, Arquivo: 6horas, RMSE: 492.96176791091153
+Alvo: Vazao, Arquivo: 6horas, RMSE: 492.71686082055663
+Alvo: Vazao_bbr, Arquivo: 6horas, RMSE: 489.340405972144
+Alvo: Vazao, Arquivo: 30min, RMSE: 544.4690984608793
+Alvo: Vazao_bbr, Arquivo: 30min, RMSE: 591.8981707809328
+Alvo: Vazao, Arquivo: 3horas, RMSE: 498.8263141620231
+Alvo: Vazao_bbr, Arquivo: 3horas, RMSE: 500.1389854307577
+Alvo: Vazao, Arquivo: 10min, RMSE: 636.3352497037115
+Alvo: Vazao_bbr, Arquivo: 10min, RMSE: 720.6530480129842
