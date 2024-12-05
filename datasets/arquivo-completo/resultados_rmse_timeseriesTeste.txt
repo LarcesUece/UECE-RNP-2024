@@ -1,0 +1,8 @@
+Variavel: Vazao_bbr, Arquivo: 6horas, Intervalo: 4h, RMSE: 116.18341103374959, Size: 911
+Variavel: Vazao_bbr, Arquivo: 6horas, Intervalo: 6h, RMSE: 126.40708951377698, Size: 608
+Variavel: Vazao_bbr, Arquivo: 30min, Intervalo: 4h, RMSE: 276.70060039468103, Size: 436
+Variavel: Vazao_bbr, Arquivo: 30min, Intervalo: 6h, RMSE: 225.17380686385673, Size: 606
+Variavel: Vazao_bbr, Arquivo: 3horas, Intervalo: 4h, RMSE: 207.5347266346438, Size: 904
+Variavel: Vazao_bbr, Arquivo: 3horas, Intervalo: 6h, RMSE: 125.90188404708896, Size: 607
+Variavel: Vazao_bbr, Arquivo: 10min, Intervalo: 4h, RMSE: 329.81262628039974, Size: 114
+Variavel: Vazao_bbr, Arquivo: 10min, Intervalo: 6h, RMSE: 514.7505372334572, Size: 603

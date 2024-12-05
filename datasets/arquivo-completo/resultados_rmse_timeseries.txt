@@ -21,3 +21,4 @@ Variavel: Vazao_bbr, Arquivo: 10min, Intervalo: 4h, RMSE: 303.958123599106, Size
 
 Variavel: Vazao, Arquivo: 10min, Intervalo: 6h, RMSE: 518.7417147585144, Size: 603
 Variavel: Vazao_bbr, Arquivo: 10min, Intervalo: 6h, RMSE: 518.2491237002095, Size: 603
+Variavel: Vazao_bbr, Arquivo: 6horas, Intervalo: 4h, RMSE: 115.94192138487995, Size: 911
