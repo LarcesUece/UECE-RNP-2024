@@ -1,0 +1,32 @@
+{
+    "interpolacao-linear - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, bi-LSTM": {
+        "RMSE": 32.980881345454264,
+        "MAE": 22.93750003334775,
+        "NRMSE": 0.17227107447285456
+    },
+    "interpolacao-linear - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 33.61175363368406,
+        "MAE": 23.322318383397267,
+        "NRMSE": 0.17556634865943946
+    },
+    "interpolacao-linear - treated bbr esmond data ap-ba 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 34.903107179418264,
+        "MAE": 24.823721299847527,
+        "NRMSE": 0.18231155539050892
+    },
+    "interpolacao-linear - treated bbr esmond data ba-go 07-03-2023_longest_interval.csv, bi-LSTM": {
+        "RMSE": 19.18463457275273,
+        "MAE": 14.65181896104884,
+        "NRMSE": 0.1891975292349059
+    },
+    "interpolacao-linear - treated bbr esmond data ba-go 07-03-2023_longest_interval.csv, GRU": {
+        "RMSE": 19.392854527421125,
+        "MAE": 14.908151591825694,
+        "NRMSE": 0.19125097991760046
+    },
+    "interpolacao-linear - treated bbr esmond data ba-go 07-03-2023_longest_interval.csv, LSTM": {
+        "RMSE": 20.05336264540876,
+        "MAE": 15.657330294207952,
+        "NRMSE": 0.1977648649482981
+    }
+}
