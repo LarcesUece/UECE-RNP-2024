@@ -1,0 +1,39 @@
+=== Análise de NRMSE ===
+
+Distribuição das Categorias:
+categoria
+Bom            0.67
+Excelente     62.67
+Muito Ruim    26.00
+Razoável       4.00
+Ruim           6.67
+
+Melhores Estados:
+                         model source     nrmse
+244          CatBoostRegressor     go  0.031353
+94   GradientBoostingRegressor     go  0.031506
+144               XGBRegressor     go  0.031593
+19       RandomForestRegressor     go  0.031716
+269              LGBMRegressor     go  0.031756
+219        KNeighborsRegressor     go  0.035765
+119          AdaBoostRegressor     go  0.035883
+50        PolynomialRegression     ms  0.036022
+150               MLPRegressor     ms  0.037883
+175                 ElasticNet     ms  0.037886
+25            LinearRegression     ms  0.037886
+275                        SVR     ms  0.039927
+
+Piores Estados:
+                         model source     nrmse
+282                        SVR     rj  1.257780
+157               MLPRegressor     rj  1.038070
+182                 ElasticNet     rj  1.018593
+32            LinearRegression     rj  1.018582
+107          AdaBoostRegressor     rj  0.936157
+57        PolynomialRegression     rj  0.931037
+222        KNeighborsRegressor     sp  0.775021
+97   GradientBoostingRegressor     sp  0.737872
+147               XGBRegressor     sp  0.730386
+22       RandomForestRegressor     sp  0.722434
+272              LGBMRegressor     sp  0.719540
+247          CatBoostRegressor     sp  0.705426
