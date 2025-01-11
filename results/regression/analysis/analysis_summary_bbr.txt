@@ -1,11 +1,11 @@
-=== An√°lise de NRMSE ===
+=== An·lise de NRMSE ===
 
-Distribui√ß√£o das Categorias:
+DistribuiÁ„o das Categorias:
 categoria
 Bom            0.67
 Excelente     62.67
 Muito Ruim    26.00
-Razo√°vel       4.00
+Razo·vel       4.00
 Ruim           6.67
 
 Melhores Estados:
